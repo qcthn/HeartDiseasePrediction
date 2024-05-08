@@ -1,6 +1,3 @@
-Dưới đây là một bản README trông chuyên nghiệp cho dự án Data Mining của bạn trên GitHub:
-
----
 
 # Data Mining Project: Heart Disease Prediction
 
